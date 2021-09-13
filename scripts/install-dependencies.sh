@@ -11,3 +11,6 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io
 sudo echo "deb http://us.archive.ubuntu.com/ubuntu vivid main universe" >> /etc/apt/sources.list
 sudo apt-get update
 sudo apt-get --assume-yes install jq
+
+# Install yq
+snap install yq
