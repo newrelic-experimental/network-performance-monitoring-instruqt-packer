@@ -13,4 +13,4 @@ sudo apt-get update
 sudo apt-get --assume-yes install jq
 
 # Install yq
-snap install yq
+sudo snap install yq
