@@ -7,7 +7,7 @@ This repository contains the packer templates, scripts, and files for building t
 Build a new image from inside the root directory:
 
 ```bash
-packer build -f .
+packer build -force .
 ```
 
 ## Network files
